@@ -44,7 +44,7 @@ O site escolhido para os testes é [OrangeHRM Demo](https://opensource-demo.oran
 
 1. Clone este repositório: 
 ```
-git clone https://github.com/seu-usuario/.git
+git clone https://github.com/cristian-msilva/testes-erico.git
 ```
 2. Instale as dependências:
 ```
